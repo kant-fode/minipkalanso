@@ -1,0 +1,57 @@
+
+
+label{
+    width: 20%;
+    display: inline-block;
+    text-align: left;
+}
+body{
+    width: 50%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 5px auto;
+    background: #f4f7f8;
+    padding: 20px;
+    color: #1ABC9C;
+
+}
+fieldset{
+    border-radius: 8px;
+
+}
+legend{
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+input[type="text"], input[type="password"], input[type="email"], input[type="tel"]{
+    border-radius: 5px;
+    padding: 10px;
+    width: 60%;
+    background-color: #fff;
+    margin: 10px;
+}
+input[type="submit"]{
+    position: relative;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #1ABC9C;
+    border-radius: 2px;
+    margin-top: 8px;
+    width: 100px;
+
+}
+ul{
+    list-style-type: none;
+    padding: 20px;
+    overflow: hidden;
+    margin: 10px;
+    background-color: #333;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+li a{
+    color: white;
+    padding: 20px;
+    margin: 5px;
+}

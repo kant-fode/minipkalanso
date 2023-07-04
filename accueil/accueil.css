@@ -1,0 +1,215 @@
+.accueil,
+.accueil * {
+  box-sizing: border-box;
+}
+.accueil {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.entete {
+  background: #000000;
+  width: 1440px;
+  height: 165px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.code-gauche-heaut {
+  width: 434px;
+  height: 354px;
+  position: absolute;
+  left: 0px;
+  top: 151px;
+}
+.cote-gauche-bas {
+  background: #f58b8b;
+  width: 434px;
+  height: 519px;
+  position: absolute;
+  left: 0px;
+  top: 505px;
+}
+.cote-droit-haut {
+  background: #040404;
+  width: 1006px;
+  height: 354px;
+  position: absolute;
+  left: 434px;
+  top: 151px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.orange-digital-kalanso {
+  color: #ffffff;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 174px;
+  top: 39px;
+  width: 291px;
+  height: 84px;
+}
+.barre-de-recherche {
+  width: 581px;
+  height: 30px;
+  position: absolute;
+  left: 503px;
+  top: 45px;
+}
+.gestion-de-projet-avec-scrum {
+  color: #ffffff;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 483px;
+  top: 165px;
+  width: 404px;
+  height: 89px;
+}
+.utilisateur-logo {
+  width: 77px;
+  height: 54px;
+  position: absolute;
+  left: 1284px;
+  top: 28px;
+}
+.orange-logo {
+  width: 126px;
+  height: 95px;
+  position: absolute;
+  left: 33px;
+  top: 28px;
+}
+.bienvenue-dans-orange-digital-kalanso-un-centre-technologique-librement-accessible-et-totalement-gratuit-qui-propose-des-formations-et-des-v-nements-pour-la-communaut-de-jeunes-d-veloppeurs-geeks-et-personnes-ayant-des-id-es-de-projets-il-s-adresse-particuli-rement-aux-tudiants-jeunes-dipl-m-s-et-jeunes-entrepreneurs {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 512px;
+  width: 422px;
+  height: 216px;
+}
+.rectangle-1 {
+  width: 462px;
+  height: 316px;
+  position: absolute;
+  left: 957px;
+  top: 151px;
+}
+.cote-droit-bas {
+  background: #c4c4c4;
+  width: 1009px;
+  height: 519px;
+  position: absolute;
+  left: 431px;
+  top: 505px;
+}
+.cote-droit-bas-gauche {
+  position: absolute;
+  left: 434px;
+  top: 505px;
+  overflow: visible;
+}
+.cote-droit-bas-droit {
+  background: #ff6600;
+  width: 389px;
+  height: 519px;
+  position: absolute;
+  left: 1051px;
+  top: 505px;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1089px;
+  top: 533px;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span2 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span3 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span4 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span5 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span6 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span7 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span8 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span9 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span10 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span11 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span12 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span13 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span14 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span15 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span16 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.pr-sent-dans-18-pays-afrique-et-moyen-orient-botswana-burkina-faso-cameroun-centrafrique-c-te-d-ivoire-gypte-guin-e-bissau-guin-e-conakry-jordanie-liberia-mali-maroc-r-publique-d-mocratique-du-congo-s-n-gal-sierra-leone-tunisie-span17 {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+  text-decoration: underline;
+}

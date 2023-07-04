@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formulaire inscription</title>
+    <link rel="stylesheet" href="accueil.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">NEWS</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+    <form action="../php/insertion.php" method="POST">
+        <fieldset>
+            <legend>inscription</legend>
+         <div>
+            <label for="">nom</label>
+            <input type="text" name="nom" placeholder="veuillez entrez le nom ici">
+         </div>
+         <div>
+             <label for="">prenom</label>
+             <input type="text" name="prenom" placeholder="veuillez entrez le prenom ici">
+         </div>
+         <div>
+             <label for="">tel</label>
+            <input type="tel" name="tel" placeholder="veuillez entrez le numero de tel ici">
+         </div>
+         <div>
+             <label for="">email</label>
+             <input type="email" name="mail" placeholder="veuillez entrez le nom ici">
+         </div>
+         <div>
+             <label for="">sexe</label>
+             <input type="radio" name="genre" value="homme">
+            <input type="radio" name="genre" value="femme">
+         </div>
+            <input type="submit" name="validez" value="validez">
+        
+     </fieldset>
+    </form>
+</body>
+</html>
